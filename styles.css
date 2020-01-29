@@ -29,7 +29,7 @@ body{
 }
 
 .controls .controls_colors{
-    display: flex;
+    display: flex; 
     cursor: pointer;
 }
 

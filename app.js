@@ -22,7 +22,7 @@ function startPainting(){
 }
 function stopPainting(){
     painting = false;
-}
+} 
 
 function onMouseMove(event){
     const x = event.offsetX
